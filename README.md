@@ -8,3 +8,6 @@ Hi, I’m Arun Kumar (R25EF034), an engineering student currently studying in my
 
 
 **Goal:** To become a skilled Data Scientist, build impactful real-world projects, continuously improve my technical skills, and contribute to meaningful technology solutions.
+
+
+##project : Building practical Python projects to strengthen programming, problem-solving, data analysis, and machine learning skills as part of my journey toward becoming a Data Scientist.
